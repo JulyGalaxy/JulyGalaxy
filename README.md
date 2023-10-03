@@ -1,10 +1,10 @@
 <img align="center" width=100% src = "https://i.pinimg.com/originals/4a/70/5e/4a705e028bb9f5d50995e68c791fb10a.gif">
 <h1 align="center">Hi 👋, I'm July Moe</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <img align="right" alt=“Coding” width=“100” src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
-- 🌱 I’m currently learning **PHP Laravel**
+- 🌱 I’m currently learning **PHP Laravel & React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JulyGalaxy?tab=repositories](https://github.com/JulyGalaxy?tab=repositories)
 
