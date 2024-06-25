@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm July Moe</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img align="right" alt=“Coding” width=“100” src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
